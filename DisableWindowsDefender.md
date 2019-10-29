@@ -22,7 +22,7 @@ reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiSpywar
 
 ### Reg Key Run
 
-* Download [DisableWindowsDefender.reg](DisableWindowsDefender.reg) and run on the target virtual machine.
+* Download [DisableWindowsDefender.reg](WindowsDefender/DisableWindowsDefender.reg) and run on the target virtual machine.
 
 ```
 Windows Registry Editor Version 5.00
