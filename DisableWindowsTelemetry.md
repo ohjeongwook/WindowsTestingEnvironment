@@ -9,4 +9,4 @@ cd Debloat-Windows-10\scripts
 powershell -exec bypass .\block-telemetry.ps1
 ```
 
-![block-telemetry](/imgs/block-telemetry.png "block-telemetry")
+![block-telemetry](/Images/block-telemetry.png "block-telemetry")
