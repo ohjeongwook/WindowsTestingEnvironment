@@ -1,4 +1,4 @@
-# Remove Anti-malware
+# Disable Anti-malware
 
 ## Use Registry Key
 
