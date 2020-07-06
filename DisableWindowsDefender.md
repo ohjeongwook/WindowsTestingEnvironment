@@ -31,11 +31,10 @@ Windows Registry Editor Version 5.00
 "DisableAntiSpyware"=dword:00000001
 ```
 
-## Use Computer Configuration
+## Use Group Policy Editor: Computer Configuration
 
-Computer Configuration / Administrative Templates / Windows Components / Windows Defender Antivirus
+* Run "gpedit.msc"
 
-Look for turn off windows defender antivirus 
-
-Select Enabled 
-
+* Under Computer Configuration / Administrative Templates / Windows Components / Windows Defender Antivirus
+  - Look for turn off windows defender antivirus 
+    - Select Enabled 
